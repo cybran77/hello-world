@@ -1,2 +1,5 @@
 # hello-world
-first repo in github
+Hi Humans!
+
+Testing github commits.
+
